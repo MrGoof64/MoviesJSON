@@ -1,0 +1,34 @@
+{
+    "movies": [
+    {
+        "id": 1,
+        "movie": "The End of Evangelion",
+        "rating": "92%"
+    },
+    {
+        "id": 2,
+        "movie": "The Empire Strikes Back",
+        "rating": "95%"
+    },
+    {
+        "id": 3,
+        "movie": "Pink Floyd: The Wall",
+        "rating": "72%"
+    },
+    {
+        "id": 4,
+        "movie": "Avengers: Infinity War",
+        "rating": "85%"
+    },
+    {
+        "id": 5,
+        "movie": "Taxi Driver",
+        "rating": "89%"
+    },
+    {
+        "id": 6,
+        "movie": "Jaws",
+        "rating": "97%"
+    }
+    ]
+}
